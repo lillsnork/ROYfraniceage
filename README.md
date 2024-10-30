@@ -1,2 +1,3 @@
 # ROYfraniceage
-Linalg
+
+LINJÄR ALGEBRA GO BRRR
